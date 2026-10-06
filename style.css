@@ -1,0 +1,99 @@
+    *{
+        margin: 0%;
+    }
+
+header{ 
+    text-align: center;
+    background-color:#a159bc;
+}
+a{
+    font-family:sans-serif;
+    font-weight: 600;
+}
+#ma{
+    width:100%;
+}
+p{
+    background-color:#c88fd1;
+    color: rgb(255, 255, 255);
+    font-weight:400;
+    font-style:normal;
+    height: 100px;
+    width: 500px;
+}
+h1{
+    background-color:#dec2f8;
+    color: rgb(255, 255, 255);
+}
+a{
+    background-color: #dec2f8;
+    padding: 1%;
+    border-radius: 25px;
+    color: rgb(250, 250, 250);
+    margin: 5%;
+}
+header{ 
+    text-align: center;
+    background-color: #c88fd1;
+
+}
+h2{
+    background-color:#dec2f8;
+    color: rgb(253, 253, 253);
+}
+section{
+    background-color:#dec2f8;
+    width: 100vh;
+    display: flex;
+}
+h1 p{
+    font-family: serif;
+}
+.card{
+    text-align: center;
+    background-color: #c88fd1;
+    margin: 15px;
+    display: flex;
+    border-radius: 50px;
+    padding-top: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+color:#ffffff
+}
+img{
+    width: 550px;
+height: 550px;
+}
+#Rapunzel{
+    width: 200px;/* a maioria desse # nome siguinifica dar "id" ou siguinificado "nome da teg, isso ajuda bastante*/
+    height: 100px;
+}
+#KKK{
+    width:1700px;
+    height: 1500px;
+    object-fit: cover;
+}
+#isso{
+    width:450px ;
+    height:300px ;
+    object-fit: cover;
+}
+#que{
+    width: 450px;
+    height:300px ;
+    object-fit:cover;
+}
+#mano{
+    width: 460px;
+    height:300px ;
+    object-fit:cover;  
+}
+#ei{
+    width: 470px;
+    height:300px ;
+    object-fit:cover;/* esse obj-fit siguinifica igular as fotos ou imagens, mais nesse caso não to conseguindo igular e o motivo eu não sei */
+}
+body{
+    background-color:#dec2f8;/* e já esse "body barkground-color siguinifica dar cor para o sit não ficar feio ou comum, ou seja pinta tudo*/ 
+}
+
